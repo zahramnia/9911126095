@@ -1,0 +1,80 @@
+
+body
+{
+background-image:url("image.jpg");
+background-repeat:no-repeat;
+font-family:b nazanin;
+font-size:150%;
+color:black;}
+
+h1{color:pink;
+font-family:bnazanin;
+}
+
+
+
+
+
+table
+{ border-collapse:collapser;
+
+ width:100%;
+text-align :center;
+
+}
+table, th, td
+{border: 3px solid black;
+font-size:20pt;
+}
+th
+{
+
+color:black;
+}
+image
+{border:"10" width:"300" height:"300" align:"center"
+}
+
+
+
+
+
+
+ div.elem-group {
+  margin: 20px ;
+}
+ 
+label {
+  display: block;
+  font-family: "b nazanin";
+  padding-bottom: 1pt;
+  font-size: 16pt;
+}
+ 
+input, textarea {
+  border-radius: 1pt;
+  border: 1pt solid black ;
+  box-sizing: border-box;
+  font-size:14pt ;
+  font-family: "b nazanin";
+  width: 200px;
+  padding: 8px;
+}
+ 
+textarea {
+  height: 250px;
+}
+ 
+button {
+  height: 50pt;
+  background: pink;
+  color: white;
+  border: 1pt solid black;
+  font-size: 14pt;
+  font-family: "b nazanin";
+  border-radius: 4pt;
+  cursor: pointer;
+}
+ 
+
+}
